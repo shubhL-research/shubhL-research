@@ -1,6 +1,6 @@
 ### Hi, I'm Shubh
 
-BBA Economics undergraduate at **MAIT Delhi** (GGSIPU-affiliated) and Research Lead at **Obvix Labs** — a Delhi NCR research group working on adaptive markets and machine cognition.
+BBA undergraduate at **MAIT Delhi** (GGSIPU-affiliated) and Research Lead at **Obvix Labs** — a Delhi NCR research group working on adaptive markets and machine cognition. Independent research focus on algorithmic markets and AI-economics.
 
 I work on algorithmic market dynamics, AI-economics, and the application of computational methods to economic theory. Targeting MSc / MPhil Economics for Fall 2028 entry.
 
